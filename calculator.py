@@ -22,3 +22,9 @@ def sin(a):
 
 def cos(a):
     return math.cos(a)
+
+def power(a, b):
+    return a ** b
+
+def sqrt(a):
+    return a ** 0.5
