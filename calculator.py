@@ -14,3 +14,11 @@ def div(a, b):
 
 def mod(a, b):
     return a % b
+
+import math
+
+def sin(a):
+    return math.sin(a)
+
+def cos(a):
+    return math.cos(a)
