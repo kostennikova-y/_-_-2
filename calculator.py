@@ -28,3 +28,11 @@ def power(a, b):
 
 def sqrt(a):
     return a ** 0.5
+
+import math
+
+def floor(a):
+    return math.floor(a)
+
+def ceil(a):
+    return math.ceil(a)
