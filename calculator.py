@@ -11,3 +11,6 @@ def div(a, b):
     if b == 0:
         raise ZeroDivisionError("Деление на ноль")
     return a / b
+
+def mod(a, b):
+    return a % b
